@@ -1,0 +1,44 @@
+body{
+	padding-top:80px;
+	padding-left: 5px;
+	background-color: black;
+}
+p
+{font-family: 'Open Sans', sans-serif;
+}
+.navbar{
+  background-color: black;
+  min-height:70px; 
+}
+
+p{
+font-family: 'Open Sans', sans-serif;
+}
+#text
+{
+font-family: 'Oswald', sans-serif;
+}
+#box{
+  background-color: white;
+}
+#nav{
+  
+    max-width: 90%%;
+    border: 3% solid darkgrey;
+    padding: 1%;
+    margin: 1px;
+    min-height:100%;
+}
+#logoi{
+	height: 45px;
+	width: 100px;
+	margin-top: 0px;
+	padding: 0px;
+}
+.item{
+	height:500px;
+}
+.item img{
+	height:500px;
+	width:1140;
+}
